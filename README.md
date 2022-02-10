@@ -1,4 +1,4 @@
-# Hi there. I am Nguyen Van Duc 👋 . Welcome to my Profile!!!  
+# Hi there. I'am Nguyen Van Duc 👋 . Welcome to my Profile!!!  
 - 👀 My CV [(nguyenvan-duc.github.io)](nguyenvan-duc.github.io)
 - 📫 How to reach me: <a href="mailto:dduc7thdec@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dducnv0712/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
